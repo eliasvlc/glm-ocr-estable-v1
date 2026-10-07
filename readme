@@ -1,0 +1,10 @@
+#llama.cpp releases
+#llama-b11476-bin-win-cpu-x64
+https://github.com/ggml-org/llama.cpp/releases
+
+
+#modelo
+https://huggingface.co/ggml-org/GLM-OCR-GGUF/tree/main
+
+#mmproject
+https://huggingface.co/mradermacher/GLM-OCR-GGUF/tree/main
